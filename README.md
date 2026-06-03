@@ -10,7 +10,7 @@ If you find our code or paper useful for your research, please kindly cite our w
 ```bibtex
 @article{han2026ilin,
   title={{ILIN}: Iteration-Guided Logical Injection Network for Complex Query Answering on Knowledge Graphs},
-  author={Han, Dongqi and Zhang, Yao and Li, Fanghao and Lu, Hu and Wu, Shengli},
+  author={Han, Dongqi and Yu, Jinghua and Lu, Hu},
   journal={Journal of Intelligent Information Systems},
   year={2026},
   publisher={Springer}
