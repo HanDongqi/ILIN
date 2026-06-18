@@ -12,8 +12,10 @@ If you find our code or paper useful for your research, please kindly cite our w
   title={{ILIN}: Iteration-Guided Logical Injection Network for Complex Query Answering on Knowledge Graphs},
   author={Han, Dongqi and Yu, Jinghua and Lu, Hu},
   journal={Journal of Intelligent Information Systems},
+  pages={1--23},
   year={2026},
-  publisher={Springer}
+  publisher={Springer},
+  doi={10.1007/s10844-026-01063-6}
 }
 ```
 *(Note: The BibTeX will be updated with volume/page numbers and DOI once officially published online.)*
